@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!-- 루트 엘리먼트는 한 개여야 한다.
+root elelment?
+=> 가장 바깥 쪽 엘리먼트(루트 엘리먼트는 다른 엘리먼트를 모두 포함)
+ -->
+<!-- xml 문서 선언문 
+xml - element, tag // version - attribute
+-->
+<book>
+</book>
+<book>
+</book>
